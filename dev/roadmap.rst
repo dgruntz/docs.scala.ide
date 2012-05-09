@@ -41,20 +41,26 @@ __ http://www.assembla.com/spaces/scala-ide/tickets/1000867
 **Milestone 2** - :strikethrough:`mid-May` delayed to July 2012
 
 * ScalaTest support - *Chee Seng Chua, Bill Venners* - |progress| `(watch the demo!)`__
+* `Implicit hyperlinking`__ - *Typesafe Team* - `#10001002`__ - |done|
+* Infer Type of Structured Selection - *Typesafe Team* - |done|
 * Create an abstraction layer with the Scala compiler - *Typesafe team* - `#1000862`__ - |progress|
 * Use the Scala model for the Outline view - *Typesafe team* - `#1000863`__
 * Create a worksheet (like a REPL but in an editor) - *Typesafe team* - `#1000865`__
-* Add support for Find References - *Typesafe team* - `#1000868`__
+* Add support for Find References - *Typesafe team* - `#1000868`__ - |progress|
 * Improve dependency tracking - *Typesafe team* - `#1000869`__
 * Scala 2.10 support (e.g., macros) -  *Typesafe team*
+* New Scala debugger - *Typesafe team* - `documentation`__ - |progress|
 * Code Analysis - *Mirko Stocker* - `#1000629`__
 
 __ http://skillsmatter.com/podcast/scala/scalatest-scalamock-subcut
+__ http://scala-ide.org/docs/helium/features/implicit-hyperlinking/index.html
+__ http://www.assembla.com/spaces/scala-ide/tickets/1001002
 __ http://www.assembla.com/spaces/scala-ide/tickets/1000862
 __ http://www.assembla.com/spaces/scala-ide/tickets/1000863
 __ http://www.assembla.com/spaces/scala-ide/tickets/1000865
 __ http://www.assembla.com/spaces/scala-ide/tickets/1000868
 __ http://www.assembla.com/spaces/scala-ide/tickets/1000869
+__ http://scala-ide.org/docs/helium/features/scaladebugger/index.html
 __ http://www.assembla.com/spaces/scala-ide/tickets/1000629
 
 **Milestone 3** - :strikethrough:`mid-July` delayed to October 2012
